@@ -1,0 +1,16 @@
+name = "MyProject"
+uuid = "a60d169a-2b44-4c78-b33b-49b60a5dc11e"
+authors = ["PGimenez <gimenezfebrer@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+YFinance = "e4b3b0a2-f9a3-42f3-aabb-32142cceaf77"
+
+[compat]
+GenieFramework = "2"
+
+[Genie]
+instantiated_pwd = "/mnt/data/projects/a60d169a-2b44-4c78-b33b-49b60a5dc11e/code"
